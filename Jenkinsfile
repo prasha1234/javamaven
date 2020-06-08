@@ -38,7 +38,7 @@ node {
 
         /* This builds the actual image */
 
-              app = docker.build("sanjaylakshmikantha/dockerapp:v1")
+              app = docker.build("prasha1234/dockerapp:v1")
 
 
 
